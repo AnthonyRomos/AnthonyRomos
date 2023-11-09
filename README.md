@@ -1,4 +1,7 @@
-### Hola 👋, soy Anthony Romero 👨🏻‍💻
+<div align="center">
+<h1 align="center"> Hola 👋, soy Anthony Romero 👨🏻‍💻 </h1>
+</div>
+<img src="https://www.canva.com/design/DAFzonvt0dw/watch">
 
 <!--
 **AnthonyRomos/AnthonyRomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
