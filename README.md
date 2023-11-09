@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center"> Hola 👋, soy Anthony Romero 👨🏻‍💻 </h1>
 </div>
-<img src="https://i.imgur.com/McBcniNundefined.png">
+<img src="https://i.imgur.com/McBcniN.png">
 
 <!--
 **AnthonyRomos/AnthonyRomos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
